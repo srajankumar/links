@@ -1,0 +1,59 @@
+{
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://www.srajan.tech/",
+      "icon": "GlobeIcon",
+      "iconColor": "violet",
+      "description": "srajan.tech"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kumarsrajan/",
+      "icon": "LinkedInLogoIcon",
+      "iconColor": "blue",
+      "description": "linkedin.com/in/kumarsrajan"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/srajankumar/",
+      "icon": "GitHubLogoIcon",
+      "iconColor": "gray",
+      "description": "github.com/srajankumar"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/withpainsimon/",
+      "icon": "InstagramLogoIcon",
+      "iconColor": "pink",
+      "description": "instagram.com/withpainsimon"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/kumarsrajan02",
+      "icon": "XIcon",
+      "iconColor": "gray",
+      "description": "x.com/kumarsrajan02"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quick-y",
+      "url": "https://quick-y.vercel.app",
+      "image": "quick-y.png",
+      "description": "Time-efficient healthcare."
+    },
+    {
+      "name": "Faceshare",
+      "url": "https://faceshare.vercel.app",
+      "image": "faceshare.png",
+      "description": "A Link in Bio. But Rich and Beautiful."
+    },
+    {
+      "name": "Susply",
+      "url": "https://susply.vercel.app",
+      "image": "susply.png",
+      "description": "Sustainable Supply Chain solution."
+    }
+  ]
+}
