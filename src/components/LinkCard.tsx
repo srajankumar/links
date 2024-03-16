@@ -55,6 +55,7 @@ export default function LinkCard() {
           width={500}
           height={500}
         />
+
         <CardTitle className="pt-5 tracking-wide pb-1 text-xl">
           Srajan Kumar
         </CardTitle>
